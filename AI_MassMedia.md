@@ -37,13 +37,21 @@
 
 <h2>AI Newscasters</h2>
 
+<p>The arrival of artificial intelligence (AI) news reporters marks a significant turning point for broadcasting. A computerized simulation of a real person in the role of a newscaster is called an artificial intelligence (AI) presenter. This digitally generated image of a newscaster is able to produce realistic language and moves thanks to advanced artificial intelligence technologies such as speech synthesis, language processing algorithms, and visual recognition.</p>
+
+<p>Reporting facilities are increasingly utilizing artificial intelligence skills, such as AI news anchors, who can process the newest issues and present them to viewers in a human-like manner and with a highly real speaking style. This breakthrough has the potential to not only alter the media landscape but also boost productivity, reduce expenses, and diminish prejudice.</p>
+
+<p>According to others, the idea that gifted people could also make fantastic presenters was unfairly ignored in favor of using AI-generated reporters. Various concerns regarding the influence of the media on reporting and information dissemination are being expressed by news organizations and the mass media. But AI still has objectives of its own, and humans are endowed with specific skills that AI is unable to mimic. Presenters using artificial intelligence (AI) may replace human reporters in certain situations, but they can't replicate the precise outcomes that humans can generate.</p>
+
 <h2>Deepfakes</h2>
 
 <h3>References:</h3>
 
 <p>Hairong Li (2019). Special Section Introduction: Artificial Intelligence and Advertising. Journal of Advertising, 48(4), 333-337, DOI:<a href="https://doi.org/10.1080/00913367.2019.1654947">10.1080/00913367.2019.1654947</a></p>
-
-
+<p>Pal, K. (2023, August 07). From Humans to AI – Meet the Futuristic News Anchors of Tomorrow. Techopedia. <a href="https://www.techopedia.com/from-humans-to-ai-meet-the-futuristic-news-anchors-of-tomorrow">https://www.techopedia.com/from-humans-to-ai-meet-the-futuristic-news-anchors-of-tomorrow</a></p>
+<p>Sarmiento, K. (2023, September 24). Netizens Have Mixed Feelings about GMA News’ *AI-Generated* News Anchors. Cosmopolitan. <a href="https://www.cosmo.ph/news/gma-introduced-ai-sports-reporters-a5322-20230924"> https://www.cosmo.ph/news/gma-introduced-ai-sports-reporters-a5322-20230924</a></p>
+<p>Tait, A. (2023, October 20). ‘Here is the news. You can’t stop us’: AI anchor Zae-In grants us an interview. The Guardian. <a href="https://www.theguardian.com/tv-and-radio/2023/oct/20/here-is-the-news-you-cant-stop-us-ai-anchor-zae-in-grants-us-an-interview">https://www.theguardian.com/tv-and-radio/2023/oct/20/here-is-the-news-you-cant-stop-us-ai-anchor-zae-in-grants-us-an-interview</a></p>
+<p>Three Reasons Why News Stations are Using AI Anchor. (2023, September 11). Deepbrain AI. <a href="https://www.deepbrain.io/blog/three-reasons-why-news-stations-are-using-ai-anchor">https://www.deepbrain.io/blog/three-reasons-why-news-stations-are-using-ai-anchor</a></p>
 
 
 
