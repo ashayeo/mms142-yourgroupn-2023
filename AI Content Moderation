@@ -1,19 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
+    <html>
+    <head>
     <title> Using AI in Content Moderation </title>
-</head>
+    <style>
+    body {
+      font-family: Arial;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    h2 {
+      text-align: left;
+      margin-top: 30px;
+    }
+  </style>
+    </head>
 <body>
+<header>
+<h1> Why Content Moderation is a must? </h1>
+</header>
 <p>Based on the 2022 Hootsuite research, approximately 4.62 billion users globally are actively engaged on social media, indicating a roughly 10% growth compared to previous years. This uptrend in social media activity underscores the increasing number of users involved in creating, sharing, and exchanging content online as the social media landscape continues to evolve. </p>
 <p> As user-generated content proliferates in areas such as e-commerce, news websites, and community forums, the need for AI-driven moderation tools becomes increasingly crucial. </p>
-  <h2> Why Content Moderation is a must? </h2>
-  <p> In the digital landscape, disinformation and inappropriate content are pervasive issues, leaving users uncertain about the content's source and how to effectively filter it. Content moderation, a widely employed social media screening practice, serves as a means to approve or reject user-generated comments and content. This task involves the removal of content violating established rules to ensure that published posts align with community guidelines and terms of service. This encompasses offensive, vulgar, or potentially violent audio, video, text, pictures, posts, and comments.
-  <p><em>"As content can be created faster, the need to review and moderate content more quickly also increases,"</em></p>
-
-  <h2> What is AI Content Moderation? </h2>
-  <p> AI content moderation is a machine learning model. It uses natural language processing (NLP) and incorporates platform-specific data to catch inappropriate user-generated content. </p>
+<p> In the digital landscape, disinformation and inappropriate content are pervasive issues, leaving users uncertain about the content's source and how to effectively filter it. Content moderation, a widely employed social media screening practice, serves as a means to approve or reject user-generated comments and content. This task involves the removal of content violating established rules to ensure that published posts align with community guidelines and terms of service. This encompasses offensive, vulgar, or potentially violent audio, video, text, pictures, posts, and comments.
+<p><em>"As content can be created faster, the need to review and moderate content more quickly also increases,"</em></p>
+<h1> What is AI Content Moderation? </h1>
+<p> AI content moderation is a machine learning model. It uses natural language processing (NLP) and incorporates platform-specific data to catch inappropriate user-generated content. </p>
   
-<h3> 5 distinct AI content moderation methods </h3>
+<h2> 5 distinct AI Content Moderation Methods </h2>
  
   <ul>
         <li><strong>Pre-moderation:</strong> Utilizing Natural Language Processing (NLP), businesses can proactively analyze content for adherence to guidelines, automatically rejecting material that contains offensive or threatening language. This method minimizes the reliance on human moderators by swiftly identifying and handling content that violates preset criteria.</li>
@@ -27,7 +41,7 @@
         <li><strong>User-only moderation:</strong> Users are empowered to filter out content they consider inappropriate, and moderation is limited to registered and approved users. For instance, if several registered users flag a post, the system automatically blocks it from being visible to others.</li>
     </ul>
 
-<h2> AI Content Moderation used in Famous Social Media Platforms </h2>
+<h2> AI Content Moderation Used in Famous Social Media Platforms </h2>
 
 <p> Famous platforms such as Facebook, YouTube and Tiktok use AI-powered content moderation to block graphic violence and sexually explicit/pornographic content. As a result, they managed to improve their reputation and expand their audience. However, as the problematic content grows both in volume and severity, international organizations and states are concerned about the impact of such content on users and moderators. </p>
 <p>  Among the main concerns are the lack of standardization, subjective decisions, poor working conditions of human moderators, and the psychological effects of constant exposure to harmful content. In response to these critical issues that traditional content moderation has raised, automated practices are in active use to make social media safe and responsible. </p>
