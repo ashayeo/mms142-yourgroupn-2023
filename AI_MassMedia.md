@@ -30,11 +30,6 @@
 
 <p>Generative AI makes collaboration, editing, and content creation in general faster. It has affected other related industries, such as modeling, production, and graphic design. Concerns emerging from this phenomenon include technological unemployment and underemployment, which describe the loss of jobs and job opportunities because of technological change or development.</p>
 
-<h4>Generative A.I. is creating custom advertisements for marketing brands [Video] by CNBC Television:</h4>
-
-[![Generative A.I. is creating custom advertisements for marketing brands](https://i.ytimg.com/vi/Jj2j9JcYdPc/maxresdefault.jpg)](https://youtu.be/StTqXEQ2l-Y?t=35s "https://www.youtube.com/watch?v=yKWQMOqYV-k")
-
-
 <h2>AI Newscasters</h2>
 
 <p>The arrival of artificial intelligence (AI) news reporters marks a significant turning point for broadcasting. A computerized simulation of a real person in the role of a newscaster is called an artificial intelligence (AI) presenter. This digitally generated image of a newscaster is able to produce realistic language and moves thanks to advanced artificial intelligence technologies such as speech synthesis, language processing algorithms, and visual recognition.</p>
@@ -43,7 +38,6 @@
 
 <p>According to others, the idea that gifted people could also make fantastic presenters was unfairly ignored in favor of using AI-generated reporters. Various concerns regarding the influence of the media on reporting and information dissemination are being expressed by news organizations and the mass media. But AI still has objectives of its own, and humans are endowed with specific skills that AI is unable to mimic. Presenters using artificial intelligence (AI) may replace human reporters in certain situations, but they can't replicate the precise outcomes that humans can generate.</p>
 
-<h2>Deepfakes</h2>
 
 <h3>References:</h3>
 
